@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+	background-color: #D5DED9;
+	font-family: 'Montserrat', sans-serif;
+}
+.modalfont{
+	font-size: 0.82rem;
+	color: #818ea3
+}
+h1,h5,h3,h4{
+	color: #2f3a58;
+}
+
+.info-panel{
+  box-shadow: 0 2px 15px rgba(0,0,0,0.5);
+  border-radius: 12px;
+  margin-top: -75px;
+  background-color: #313C53;
+  height: 95px;
+  padding: 25px;
+
+}
+@media screen and (min-width: 995px){
+	.margin{
+	margin-left: 3.75rem;
+	margin-right: 3.75rem;
+}
+	
+}
+@media screen and (min-width: 739px){
+	.image-footer{
+		height: 50;
+		width: 105px;
+	}
+}
+
+.textcontent{
+	color: #2f3a58;
+	font-weight: bold;
+	font-size: 12px;
+}
+div.card-border{
+	border-radius: 15px;
+}
+ .image{
+ 	height: 65px; width: 170px;
+ }
+.content{
+	padding: 25px;
+}
+.garis{
+	width:50px;border: 1px #2f3a58 solid;
+}
+.kartu-info{
+	border-radius: 15px;background-color: #2f3a58;
+}
+.tombol1{border-radius: 5px; border:2px solid #ffffff; background-color: #4E6C9D; width: 120px;}
+.tombol-kotak-saran{
+	border-radius: 5px; border:2px solid #ffffff; background-color: #4E6C9D
+}
+.emoji{
+	font-size: 2em;
+}
+ .subjudul{
+ 	font-size: 18px;
+ 	color: #2f3a58;
+ }
+ .kartu1{
+ 	width: 360px;
+ }
+ .ukuran-text-konten{
+ 	font-size: 12px;
+ }
+ div.header-footer{
+    font-size: 22px;
+    font-weight: 900;
+    font-style: bolder;
+    text-decoration: none;
+    color: #2f3a58;
+ }
+ .sub-header-footer{
+    font-size: 14px;
+    font-style: bolder;
+    font-weight: 900;
+    text-decoration: none;
+    color: #2f3a58;
+ }
+  .sub-header-nav{
+    font-size: 10px;
+    font-style: bolder;
+    font-weight: 900;
+    text-decoration: none;
+    color: #2f3a58;
+ }
+ .border-text{
+ 	border-radius: 15px;
+ }
+.tombol-kirim{
+	border-radius: 5px; border:2px; background-color: #4E6C9D
+}
+@media screen and (max-width: 700px){
+	.nav-responsive{
+		display: none;
+	}
+}
+@media screen and (min-width: 699px){
+	.header-mobile{
+		display: none;
+	}
+}
+@media screen and (max-width: 669px){
+	.text-header-mobile{font-size: 10px;
+    font-style: bolder;
+    font-weight: 900;
+    text-decoration: none;
+    color: #2f3a58;}
+    .text-header-nav-mobile{
+    font-size: 22px;
+    font-weight: 900;
+    font-style: bolder;
+    text-decoration: none;
+    color: #2f3a58;
+    }
+    .sipuas-mobile{
+    font-size: 22px;
+    font-weight: 900;
+    font-style: bolder;
+    text-decoration: none;
+    color: #2f3a58;
+    }
+    .image-mobile{
+    	height: 55px; width: 210px;
+    }
+    .dev-mobile{
+    font-size: 10px;
+    }
+    .sub-header-footer-mobile{
+    font-size: 10px;
+    font-style: bolder;
+    font-weight: 900;
+    text-decoration: none;
+    color: #2f3a58;
+ }
+}
+.tombolopsi{height: 70px; width: 200px; border-radius: 10px; background-color: #4E6C9D; color: white}
+.header-pop-up{
+    font-size: 18px;
+    font-style: bolder;
+    font-weight: 900;
+    text-decoration: none;
+    color: #2f3a58;
+ }
+ .headsurvei{
+ 	color: #2f3a58;
+ 	font-weight: bold;
+ 	text-decoration: underline;
+ }
+ .btn-konf{
+ 	width: 120px;
+ }
